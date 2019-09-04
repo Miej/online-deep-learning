@@ -57,10 +57,15 @@ enjoy!
 mark($period>]woods89($at>]gmail($period>]com
 
 
-requirements - 
+### requirements - 
+
 
 tensorflow-gpu
+
 numpy
+
 cv2
+
 webcam
+
 another webcam?!?!? (optional :P )
