@@ -33,9 +33,13 @@ be mindful of the index used for your webcam / video device, the code here is ju
 ## Fun things to try with the ~~family~~ computer-
 
 > have your computer stare at your for hours on end.
+
 > have your computer stare at your computer screen where it can view its own feedback request images
+
 > have your computer stare at youtube for hours on end 
+
 > have your computer stare at simple looping gifs for a bit
+
 > have your computer stare at chaotic motion, eg a double pendulum simulation
 
 
