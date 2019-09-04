@@ -1,6 +1,8 @@
 # online-deep-learning
 
 `\/` click this for a sample video `\/`
+
+
 [![](http://img.youtube.com/vi/Ck5iWa6sUWU/0.jpg)](http://www.youtube.com/watch?v=Ck5iWa6sUWU "sample video")
 
 
